@@ -17,8 +17,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Akashkilledar/CRUD-with-NodeJS---MongoDB.git
+   cd CRUD-with-NodeJS---MongoDB
    ```
 
 2. Install dependencies:
