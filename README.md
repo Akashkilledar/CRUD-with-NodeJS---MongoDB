@@ -24,8 +24,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Akashkilledar/CRUD-with-NodeJS---MongoDB.git
+cd CRUD-with-NodeJS---MongoDB
 
 Install dependencies:
 
