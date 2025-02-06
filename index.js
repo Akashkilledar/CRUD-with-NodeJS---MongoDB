@@ -1,7 +1,10 @@
 let express = require('express');
 let mongoose = require('mongoose');
 let bodyParser = require('body-parser')
-let cors = require('cors')
+// let cors = require('cors')
+// Cross-Origin Resource Sharing
+// import cors for connections between frontend and backend
+// It allows a client web application to interact with resources in a different domain.
 
 
 mongoose.connect('mongodb://localhost:27017/company')
